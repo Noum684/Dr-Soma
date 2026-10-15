@@ -1,0 +1,10 @@
+{
+  "name": "Dr Soma Traoré, médecin généraliste",
+  "short_name": "Dr Soma Traoré",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#081820",
+  "theme_color": "#081820",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
