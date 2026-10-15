@@ -1,0 +1,10 @@
+{
+    "name": "docteur-soma-traore-site",
+    "version": "1.0.0",
+    "compability_date": "2026-01-10",
+    "assets":{
+        "directory": "./"
+    }
+
+
+}
