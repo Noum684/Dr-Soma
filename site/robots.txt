@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.drsomatraore.com/sitemap.xml
+Sitemap: https://dr-soma.traorenoumoutene684.workers.dev/sitemap.xml
